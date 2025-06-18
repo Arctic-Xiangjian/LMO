@@ -17,7 +17,7 @@ Interpretability and consistency have long been crucial factors in MRI reconstru
 
 ## Overview
 <div align="center">
-<img src="Figure/Overview" />
+<img src="Figure/Overview.png" />
 </div>
 
 ## Train
