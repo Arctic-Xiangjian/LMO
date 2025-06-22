@@ -25,7 +25,9 @@ Interpretability and consistency have long been crucial factors in MRI reconstru
 ## Evaluation on Provided Weights
 
 ## Acknowledgement :heart:
-This project is based on CNO ([paper](https://arxiv.org/pdf/2302.01178), [code](https://github.com/camlab-ethz/ConvolutionalNeuralOperator)), PGIUN ([paper](https://ieeexplore.ieee.org/abstract/document/10584139), [code](https://github.com/Jiangjiawei2/PGIUN)), MambaNO ([paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ee553ec47c31e46a1209bb858b30aa5-Abstract-Conference.html), [code](https://github.com/ZhengJianwei2/Mamba-Neural-Operator)). Thanks for their wonderful works.
+This project is based on CNO ([paper](https://arxiv.org/pdf/2302.01178), [code](https://github.com/camlab-ethz/ConvolutionalNeuralOperator)), PGIUN ([paper](https://ieeexplore.ieee.org/abstract/document/10584139), [code](https://github.com/Jiangjiawei2/PGIUN)), MambaNO ([paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ee553ec47c31e46a1209bb858b30aa5-Abstract-Conference.html), [code](https://github.com/ZhengJianwei2/Mamba-Neural-Operator)). 
+
+Thanks for their wonderful works.
 
 ## Citation
 If you find LMO is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
