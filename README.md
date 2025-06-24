@@ -8,7 +8,7 @@
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
-CVPR 2025 ([conference paper](https://cvpr.thecvf.com/virtual/2025/poster/35009))
+CVPR 2025 ([conference paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_LMO_Linear_Mamba_Operator_for_MRI_Reconstruction_CVPR_2025_paper.html))
 
 </div>
 
