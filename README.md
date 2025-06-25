@@ -2,7 +2,7 @@
 <h1>LMO </h1>
 <h3>LMO: Linear Mamba Operator for MRI Reconstruction</h3>
 
-[WeiLi](https://github.com/weili419)<sup>1</sup> \*,Jiawei Jiang<sup>1</sup> \*,Jie Wu<sup>1</sup>, Kaihao Yu<sup>1</sup>, [Jianwei Zheng](https://zhengjianwei2.github.io/)<sup>1 :email:</sup>
+[Wei Li](https://github.com/weili419)<sup>1</sup> \*,Jiawei Jiang<sup>1</sup> \*,Jie Wu<sup>1</sup>, Kaihao Yu<sup>1</sup>, [Jianwei Zheng](https://zhengjianwei2.github.io/)<sup>1 :email:</sup>
 
 <sup>1</sup>  Zhejiang University of Technology
 
