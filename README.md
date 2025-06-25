@@ -2,7 +2,7 @@
 <h1>LMO </h1>
 <h3>LMO: Linear Mamba Operator for MRI Reconstruction</h3>
 
-[WeiLi]()<sup>1</sup> \*,[Jiawei Jiang]()<sup>1</sup> \*,[Jie Wu]()<sup>1</sup>, [Kaihao Yu]()<sup>1</sup>, [Jianwei Zheng](https://zhengjianwei2.github.io/)<sup>1 :email:</sup>
+[WeiLi](https://github.com/weili419)<sup>1</sup> \*,Jiawei Jiang<sup>1</sup> \*,Jie Wu<sup>1</sup>, Kaihao Yu<sup>1</sup>, [Jianwei Zheng](https://zhengjianwei2.github.io/)<sup>1 :email:</sup>
 
 <sup>1</sup>  Zhejiang University of Technology
 
@@ -29,7 +29,7 @@ Open source code this week
 Open source code this week
 
 ## Acknowledgement :heart:
-This project is based on CNO ([paper](https://arxiv.org/pdf/2302.01178), [code](https://github.com/camlab-ethz/ConvolutionalNeuralOperator)), PGIUN ([paper](https://ieeexplore.ieee.org/abstract/document/10584139), [code](https://github.com/Jiangjiawei2/PGIUN)), MambaNO ([paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ee553ec47c31e46a1209bb858b30aa5-Abstract-Conference.html), [code](https://github.com/ZhengJianwei2/Mamba-Neural-Operator)). 
+This project is based on CNO ([paper](https://arxiv.org/pdf/2302.01178), [code](https://github.com/camlab-ethz/ConvolutionalNeuralOperator)), PGIUN ([paper](https://ieeexplore.ieee.org/abstract/document/10584139), [code](https://github.com/Jiangjiawei2/PGIUN)), MambaNO ([paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ee553ec47c31e46a1209bb858b30aa5-Abstract-Conference.html), [code](https://github.com/weili419/Mamba-Neural-Operator)). 
 
 Thanks for their wonderful works.
 
